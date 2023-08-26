@@ -16,6 +16,14 @@
 - _p08_FuncionesTrigonometricas
 - _p09_DividirEnCifras
 
+## Practica 01
+- _p10_HipotenusaTriangulo
+- _p11_CalcularAngulo
+- _p12_ConvertirTemperatura
+- _p13_VolumenCilindro
+- _p14_CalculoTiempo
+- _p15_ConvertirADolares
+
 ## Actividad 3
 - _p16_TrabajandoEnteros
 - _p17_TrabajandoFlotantes
