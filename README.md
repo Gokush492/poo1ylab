@@ -30,3 +30,9 @@
 - _p18_TrabajandoConstantes
 - _p19_TrabajandoCaracteres
 - _p20_ConversionTipos
+
+## Actividad 4
+- _p21_VerificaNumero
+- _p22_VerificaSuma
+- _p23_ConvertirTemperaturas
+- _p24_PagaTrabajadorv2
