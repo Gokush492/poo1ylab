@@ -9,11 +9,11 @@ public class Rectangulo implements FiguraGeometrica, Ajustable {
     }
 
     public double getArea() {
-        return Largo + Ancho;
+        return Largo * Ancho;
     }
 
     public double getPerimetro() {
-        return 2 * Largo + 2 * Ancho;
+        return (2 * Largo) + (2 * Ancho);
     }
 
     public void ajustar(double porcentaje) {
