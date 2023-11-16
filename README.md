@@ -217,3 +217,6 @@
 - _p137_ArchivoMunicipios
 - _p138_ArchivoMaterias
 - _p139_ArchivoEstudiante
+
+## Tercer Examen Parcial
+- _p147_TercerExamenParcial
