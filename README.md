@@ -218,5 +218,10 @@
 - _p138_ArchivoMaterias
 - _p139_ArchivoEstudiante
 
+## Avtividad 24
+- _p140_HolaMundoGUI
+- _p141_AreaTrianguloGUI
+- _p142_LeyDeNewtonGUI
+
 ## Tercer Examen Parcial
 - _p147_TercerExamenParcial
